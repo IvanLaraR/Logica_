@@ -31,3 +31,4 @@ caracteristicas_aprendidas = aprender_caracteristicas(frutas_ejemplo)
 print("Características comunes aprendidas:")
 for color, formas in caracteristicas_aprendidas.items():
     print(f"Color: {color}, Formas: {', '.join(formas)}")
+    
