@@ -30,5 +30,5 @@ caracteristicas_aprendidas = aprender_caracteristicas(frutas_ejemplo)
 # Imprimir las características comunes aprendidas
 print("Características comunes aprendidas:")
 for color, formas in caracteristicas_aprendidas.items():
-    print(f"Color: {color}, Formas: {', '.join(formas)}")
+    git statprint(f"Color: {color}, Formas: {', '.join(formas)}")
     
